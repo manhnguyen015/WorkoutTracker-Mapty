@@ -33,7 +33,7 @@ This project is a workout tracking application that allows users to record and v
 
 ## Credits
 
-This application is developed as part of my learning journey based on the work of **[Jonas Schmedtmann](https://github.com/jonasschmedtmann)**.
+This JavaScript file was written and developed as part of my learning journey, with credits to Jonas Schmedtmann for the project foundation.
 
 ## License
 
